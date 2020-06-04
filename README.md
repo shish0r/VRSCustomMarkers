@@ -3,7 +3,7 @@ Custom SVG Aircraft Markers for Virtual Radar Server
 
 Currently included:
 
-Spitfire - currently just set to "SPIT" and "HURR" ICAO types (used to represent warbirds, will add more types to this later)
+Spitfire - currently just set to "SPIT" and "HURI" ICAO types (used to represent warbirds, will add more types to this later)
 
 F35 - set to "F35" and "VF35" ICAO types
 
@@ -27,10 +27,12 @@ V22 - set to "V22" ICAO type
 
 Autogyro - set to "MT", "CDUS", "CLON" and "MM16" ICAO types
 
-E3 - set to "E3" ICAO type
+E3 - set to "E3CF" and "E3TF" ICAO types
 
 F16 - set to "F16" ICAO type
 
-T6 - set to "T6", "PC21" and "PC12" ICAO types (used to represent single engine turboprops)
+T6 - set to "T6", "PC21", "PC12" and "TBM9" ICAO types (used to represent single engine turboprops)
+
+Hunter - set to "HUNT" ICAO type
 
 Install according to: http://forum.virtualradarserver.co.uk/viewtopic.php?f=11&t=805#p4019
