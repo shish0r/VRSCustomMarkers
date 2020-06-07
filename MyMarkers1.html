@@ -124,7 +124,7 @@
                     selectedFileName: 'Marker_AirplaneSelected.png',
                     embeddedSvg: VRS.EmbeddedSvgs.Marker_TypeGLEX,
                     size: { width: 40, height: 40 },
-                    matches: function( aircraft) { return aircraft.modelIcao.val === 'GLEX'; }
+                    matches: function( aircraft) { return aircraft.modelIcao.val === 'GLEX' || aircraft.modelIcao.val === 'GL5T'; }
                 }));
                 VRS.globalOptions.aircraftMarkers.unshift(new VRS.AircraftMarker({ //C17
                     normalFileName: 'Marker_Airplane.png',
@@ -138,7 +138,7 @@
                     selectedFileName: 'Marker_AirplaneSelected.png',
                     embeddedSvg: VRS.EmbeddedSvgs.Marker_TypeEH101,
                     size: { width: 40, height: 40 },
-                    matches: function( aircraft) { return aircraft.modelIcao.val === 'EH101' || aircraft.modelIcao.val === 'S61' ; }
+                    matches: function( aircraft) { return aircraft.modelIcao.val === 'EH101' || aircraft.modelIcao.val === 'S61' || aircraft.modelIcao.val === 'A189' ; }
                 }));
                 VRS.globalOptions.aircraftMarkers.unshift(new VRS.AircraftMarker({ //V22
                     normalFileName: 'Marker_Airplane.png',
@@ -173,7 +173,7 @@
                     selectedFileName: 'Marker_AirplaneSelected.png',
                     embeddedSvg: VRS.EmbeddedSvgs.Marker_TypeT6,
                     size: { width: 40, height: 40 },
-                    matches: function( aircraft) { return aircraft.modelIcao.val === 'TEX2' || aircraft.modelIcao.val === 'PC21' || aircraft.modelIcao.val === 'PC12' || aircraft.modelIcao.val === 'TBM7' || aircraft.modelIcao.val === 'TBM9'; }
+                    matches: function( aircraft) { return aircraft.modelIcao.val === 'TEX2' || aircraft.modelIcao.val === 'PC21' || aircraft.modelIcao.val === 'PC12' || aircraft.modelIcao.val === 'TBM7' || aircraft.modelIcao.val === 'TBM8' || aircraft.modelIcao.val === 'TBM9' || aircraft.modelIcao.val === 'M600' || aircraft.modelIcao.val === 'P46T' ; }
                 }));
 				VRS.globalOptions.aircraftMarkers.unshift(new VRS.AircraftMarker({ //HUNT
                     normalFileName: 'Marker_Airplane.png',
