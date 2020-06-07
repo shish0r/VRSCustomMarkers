@@ -17,11 +17,11 @@ Hawk - set to "HAWK" ICAO type
 
 A400M - set to "A400" ICAO type
 
-Global Express - set to "GLEX" ICAO type
+Global Express - set to "GLEX" and "GL5T" ICAO types (used to represent large business jets)
 
 C17 - set to "C17" ICAO type
 
-EH101 - set to "EH101" and "S61" ICAO types (used to represent larger helicopters)
+EH101 - set to "EH101", "A189" and "S61" ICAO types (used to represent larger helicopters)
 
 V22 - set to "V22" ICAO type
 
@@ -31,7 +31,7 @@ E3 - set to "E3CF" and "E3TF" ICAO types
 
 F16 - set to "F16" ICAO type
 
-T6 - set to "T6", "PC21", "PC12" and "TBM9" ICAO types (used to represent single engine turboprops)
+T6 - set to "TEX2", "PC21", "PC12", "TBM7", "TBM8", "TBM9", "M600" and "P46T" ICAO types (used to represent single engine turboprops)
 
 Hunter - set to "HUNT" ICAO type
 
