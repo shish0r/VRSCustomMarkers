@@ -53,6 +53,8 @@ F-15 - set to "F15" ICAO type
 
 U2 - set to "U2" ICAO type
 
+B1 - set to "B1" ICAO type
+
 Install according to: http://forum.virtualradarserver.co.uk/viewtopic.php?f=11&t=805#p4019
 
 Note that the top section of the file assigns fill colours to the graphics based on various aircraft attributes.
