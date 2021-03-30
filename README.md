@@ -37,4 +37,14 @@ Hunter - set to "HUNT" ICAO type
 
 AH64 - set to "H64" ICAO type
 
+MD11 - set to "MD11" and "DC10" ICAO type
+
+Lancaster - set to "LANC" ICAO type
+
+PBY-5A - set to "CAT" ICAO type
+
+BelugaXL - set to "A3ST" ICAO type
+
+B-52 - set to "B52" ICAO type
+
 Install according to: http://forum.virtualradarserver.co.uk/viewtopic.php?f=11&t=805#p4019
