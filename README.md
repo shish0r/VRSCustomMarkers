@@ -55,6 +55,14 @@ U2 - set to "U2" ICAO type
 
 B1 - set to "B1" ICAO type
 
+Tornado - set to "TOR" ICAO type
+
+IL-76 - set to "IL76" and "A124" ICAO type
+
+C5 - set to "C5" ICAO type
+
+AN-225 - set to "A225" ICAO type
+
 Install according to: http://forum.virtualradarserver.co.uk/viewtopic.php?f=11&t=805#p4019
 
 Note that the top section of the file assigns fill colours to the graphics based on various aircraft attributes.
