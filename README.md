@@ -66,3 +66,7 @@ AN-225 - set to "A225" ICAO type
 Install according to: http://forum.virtualradarserver.co.uk/viewtopic.php?f=11&t=805#p4019
 
 Note that the top section of the file assigns fill colours to the graphics based on various aircraft attributes.
+
+==============================================================================================================
+
+HFDL suffixed file includes marker colours set by sqwark code. This is useful if using DumpHFDL to capture HFDL positions with the --freq-as-sqwark setting.
