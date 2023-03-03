@@ -67,6 +67,6 @@ Install according to: http://forum.virtualradarserver.co.uk/viewtopic.php?f=11&t
 
 Note that the top section of the file assigns fill colours to the graphics based on various aircraft attributes.
 
-==============================================================================================================
+==================================================================================================
 
 HFDL suffixed file includes marker colours set by sqwark code. This is useful if using DumpHFDL to capture HFDL positions with the --freq-as-sqwark setting.
